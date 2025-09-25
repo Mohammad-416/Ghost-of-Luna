@@ -26,7 +26,7 @@ A 2D platformer puzzle game where your past lives become stepping stones to vict
 
 ### Recommended Requirements
 - **Memory:** 8 GB RAM
-- **Display:** 1360x768 
+- **Display:** 1360x768 (recommended for best experience)
 
 ## 🚀 Installation & Launch
 
@@ -61,7 +61,8 @@ A 2D platformer puzzle game where your past lives become stepping stones to vict
 
 ## 🏆 Submission Information
 
-This game was created for [Competition/Game Jam Name]. The core mechanic revolves around death not being a failure, but a tool - each failed attempt creates a ghost that replays your exact movements, which you can then use as a stepping stone to progress further.
+This game was created for Game Dev Hackathon (DevClub IITD X Krafton). The core mechanic revolves around death not being a failure, but a tool - each failed attempt creates a ghost that replays your exact movements, which you can then use as a stepping stone to progress further.
+Themes Included : Rewind & Fragile
 
 ---
 

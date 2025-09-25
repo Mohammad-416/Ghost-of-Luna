@@ -1,0 +1,85 @@
+==============================================
+          GHOST OF LUNA - CREDITS
+==============================================
+
+AUDIO ASSETS
+============
+
+Player Movement Sound Effects
+Source: OpenGameArt.org
+URL: https://opengameart.org/content/12-player-movement-sfx
+Author: Leohpaz
+License: CC-BY 4.0
+Usage: Jump sounds, movement audio, landing effects
+
+Additional Audio Assets
+Source: Pixabay.com
+URL: https://pixabay.com
+License: Pixabay License (Free for commercial use)
+Usage: Background music, ambient sounds, UI audio effects
+
+VISUAL EFFECTS
+==============
+
+Fire Animation Effects
+Asset: Pixel FX - Fire
+Publisher: Admurin
+Source: Unity Asset Store
+URL: https://assetstore.unity.com/publishers/51994
+License: Unity Asset Store EULA
+Usage: Bomb explosion animations, fire visual effects
+
+FONTS
+=====
+
+Game Typography
+Asset: Free retro pixel font - GNF
+Publisher: Nytrock
+Source: Unity Asset Store
+URL: https://assetstore.unity.com/publishers/118122
+License: Unity Asset Store EULA
+Usage: UI text, menu fonts, in-game text displays
+
+SPRITES & TILESETS
+==================
+
+Environment Art
+Asset: Free 2D Platformer - Skull Garden Tilesets Asset Pack
+Publisher: NovaDevs
+Source: Unity Asset Store
+URL: https://assetstore.unity.com/publishers/101795
+License: Unity Asset Store EULA
+Usage: Ground tiles, platform sprites, environmental decorations
+
+Background Art
+Asset: Pixel Skies DEMO Background pack
+Publisher: Digital Moons
+Source: Unity Asset Store
+URL: https://assetstore.unity.com/publishers/45721
+License: Unity Asset Store EULA
+Usage: Sky backgrounds, atmospheric elements
+
+Additional Sprites
+Source: Pinterest
+License: Used under Fair Use/Educational purposes
+Usage: Miscellaneous game sprites and decorative elements
+
+DEVELOPMENT TEAM
+================
+
+Game Design & Programming: Mohammad
+Game Engine: Unity 6
+Development Period: 2025
+
+SPECIAL THANKS
+==============
+
+- Unity Technologies for the game engine
+- OpenGameArt.org community for free audio resources
+- Unity Asset Store publishers for quality assets
+- All artists and creators who made their work available
+
+==============================================
+All assets used in accordance with their respective licenses.
+For any licensing questions, please contact the development team.
+==============================================
