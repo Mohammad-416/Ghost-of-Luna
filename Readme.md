@@ -26,7 +26,7 @@ A 2D platformer puzzle game where your past lives become stepping stones to vict
 
 ### Recommended Requirements
 - **Memory:** 8 GB RAM
-- **Display:** 1360x768 or higher resolution
+- **Display:** 1360x768 
 
 ## 🚀 Installation & Launch
 
