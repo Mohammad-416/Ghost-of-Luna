@@ -1,1 +1,71 @@
+==============================================
+        GAME DEV HACKATHON METADATA
+==============================================
+
+EVENT INFORMATION
+==================
+Hackathon: Game Dev Hackathon (DevClub IITD X Krafton)
+Round: Preliminary Round 1 (Online)
+Submission Date: September 25, 2025
+Registration Platform: Unstop
+
+TEAM INFORMATION
+================
+Team Name: Gajar ka Halwa
+Team Size: 4 Members
+
+Team Members:
+1. Mohammad (Developer/Programmer)
+2. Simant Pandit (Developer/Designer)
+3. Shubham Singh (Developer/Programmer)
+4. Kavya Sharma (Developer/Artist)
+
+GAME INFORMATION
+================
+Game Title: Ghost of Luna
+Genre: 2D Platformer Puzzle
+Platform: Windows (PC)
+Engine: Unity 6
+Development Duration: 7 days (September 18-25, 2025)
+
+THEME IMPLEMENTATION
+====================
+Selected Themes: REWIND + FRAGILE
+
+Theme 1: REWIND
+- Core Mechanic: Ghost replay system that records and rewinds player movements
+- Implementation: Every death creates a ghost that replays exact player actions from previous attempt
+- Gameplay Integration: Ghosts become interactive platforms for puzzle-solving
+- Narrative Role: Death is not failure but progress - past attempts become tools for success
+
+Theme 2: FRAGILE
+- Core Mechanic: Player character dies instantly from environmental hazards (spikes, bombs)
+- Implementation: One-hit death system with immediate respawn
+- Gameplay Integration: Fragility drives the ghost creation mechanic - vulnerability becomes strength
+- Strategic Element: Players must carefully plan routes knowing each mistake creates a helpful ghost
+
+GAME DESCRIPTION
+================
+Ghost of Luna is a 2D platformer where death becomes your greatest ally. Players navigate challenging levels filled with spikes, bombs, and platforming puzzles. When you die, a semi-transparent ghost spawns that perfectly replays your previous attempt's movements. These ghosts are solid and can be jumped on, creating stepping stones to reach previously inaccessible areas.
+
+The game transforms the traditional concept of "failure" into a core puzzle-solving mechanic. Your fragility isn't a weakness—it's a tool. Each death provides valuable information and a new platform for your next attempt.
+
+KEY FEATURES
+============
+- Ghost Replay System: Pixel-perfect recording and playback of player movements
+- Physics-Based Platforming: Smooth controls with coyote time and variable jump height
+- Progressive Difficulty: Levels designed around strategic ghost placement
+- Environmental Hazards: Spikes, exploding bombs with blast radius detection
+- Audio-Visual Feedback: Sound effects for movement, jumping, and environmental interactions
+
+TECHNICAL SPECIFICATIONS
+========================
+Resolution: 1360x768 (optimized)
+Minimum Requirements: Intel i7 2nd Gen, 4GB RAM, Integrated Graphics
+Build Type: Windows Executable (.exe)
+File Size: <500 MB
+Installation: Simple executable with data folders
+
+
+
  
