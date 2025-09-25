@@ -66,12 +66,3 @@ This game was created for [Competition/Game Jam Name]. The core mechanic revolve
 ---
 
 *For technical support or questions, please check the GitHub repository or contact the development team.*
-
-[1](https://www.makeareadme.com)
-[2](https://www.youtube.com/watch?v=kq8mpgtFrNk)
-[3](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
-[4](https://docs.unity3d.com/6000.2/Documentation/Manual/cus-document.html)
-[5](https://stackoverflow.com/questions/9331281/how-can-i-test-what-my-readme-md-file-will-look-like-before-committing-to-github)
-[6](https://www.youtube.com/watch?v=pXzLXNEW3bk)
-[7](https://dev.to/mishmanners/github-readme-for-easy-to-understand-code-2b5k)
-[8](https://www.reddit.com/r/opensource/comments/1kk1wd8/what_in_your_opinion_makes_for_a_great_readme_file/)
